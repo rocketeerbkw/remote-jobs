@@ -37,6 +37,7 @@ Name | Website | Region
 [Alley](/company-profiles/alley.md) | https://alley.co | USA, Canada, Western Europe
 [allyDVM](/company-profiles/allydvm.md) | https://www.allydvm.com/ | USA
 [AlphaSights](/company-profiles/alphasights.md) | https://engineering.alphasights.com | USA, UK, (EST, GMT)
+[amazee.io](/company-profiles/amazee.io.md) | https://www.amazee.io/ | Worldwide
 [Amazon](/company-profiles/amazon.md) | https://www.amazon.jobs/en/locations/virtual-locations | Worldwide
 [Anexus](/company-profiles/anexus.md) | http://www.anexusit.com/ | Latin America
 [Animalz](/company-profiles/animalz.md) | https://www.animalz.co | USA
